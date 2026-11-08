@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Jacob 👋
 
-<!--
-**jjx1-jpg/jjx1-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at **Austin Peay State University** (CIS – Cybersecurity concentration, Business Admin minor).
+I'm building hands-on skills in networking, Linux, and security, one project at a time.
 
-Here are some ideas to get you started:
+### 🔐 Currently
+- 📚 Studying for **CompTIA Security+**
+- 🎓 Completing Cisco NetAcad **Introduction to Cybersecurity**
+- 🖥️ Building a **Raspberry Pi homelab** / personal cloud
+- 💼 Looking for **Summer 2027 internships** in cybersecurity or IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Interests
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 📫 Reach me
+Open to connecting about internships and security projects.
